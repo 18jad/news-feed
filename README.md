@@ -1,7 +1,5 @@
 # News feed
 - News imported directly from database using jquery and bootstrap
-
-### Database is deployed online
 -----
 
 # Screenshots
